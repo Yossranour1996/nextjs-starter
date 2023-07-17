@@ -3,7 +3,7 @@ type: Page
 title: Stackbit Next.js Starter
 sections:
   - type: HeroSection
-    heading: Welcome to Stackbit!
+    heading: Yossra website
     subheading: >
       You've just [unlocked visual editing
       capabilities](https://www.stackbit.com/) in this Next.js app.
